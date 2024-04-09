@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "funding-blog",
+    title: "Custom Keyboard Funding Blog",
     description: "welcome to funding-blog!",
   },
 
