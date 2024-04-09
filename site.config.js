@@ -6,6 +6,7 @@ const CONFIG = {
     role: "AI developer",
     bio: "커스텀 키보드 클라우드 펀딩 일지",
     email: "maruniverse@cau.ac.kr",
+    linkedin: "",
     github: "marudevelop",
     instagram: "cuskey_official",
   },
