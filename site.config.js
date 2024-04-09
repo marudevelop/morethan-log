@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Minseong Kim",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "AI developer",
-    bio: "커스텀 키보드 클라우드 펀딩 일지",
+    bio: "커스텀 키보드 펀딩 일지",
     email: "maruniverse@cau.ac.kr",
     linkedin: "",
     github: "marudevelop",
