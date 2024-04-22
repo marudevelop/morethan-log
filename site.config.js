@@ -8,7 +8,7 @@ const CONFIG = {
     email: "maruniverse@cau.ac.kr",
     linkedin: "",
     github: "marudevelop",
-    instagram: "cuskey_official",
+    instagram: "akkey.keyboard",
   },
   projects: [
     {
