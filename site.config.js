@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `blog`,
+      href: "https://akkey.vercel.app/",
     },
   ],
   // blog setting (required)
