@@ -8,22 +8,22 @@ const CONFIG = {
     email: "maruniverse@cau.ac.kr",
     linkedin: "",
     github: "marudevelop",
-    instagram: "akkey.keyboard",
+    instagram: "akkey.board",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Custom Keyboard Funding Blog",
-    description: "welcome to funding-blog!",
+    title: "Akkey Blog",
+    description: "Welcome to Akkey funding-blog!",
   },
 
   // CONFIG configration (required)
-  link: "https://cuskey.vercel.app/",
+  link: "https://akkey.vercel.app/",
   since: 2024, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
